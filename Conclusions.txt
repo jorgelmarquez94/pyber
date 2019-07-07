@@ -1,0 +1,8 @@
+We can conclude from the data that:
+	The major percentage of total fare are in urban cities.
+	Also, the major percentage of total rides are in urban cities.
+	Finally, the major percentage of drivers are from urban cities.
+
+In the other hand, we can see a correlation between total fare and number of rides between different type of cities. 
+If it's a rural zone it trends to be a more expensive ride than to a urban zone. Also, the rides from suburban trends to
+be in the average of fare between rural and urban rides.
